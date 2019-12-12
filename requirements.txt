@@ -1,0 +1,6 @@
+django
+celery > 4
+django-celery
+requests
+django_celery_beat
+redis
